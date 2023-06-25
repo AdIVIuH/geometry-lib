@@ -1,5 +1,4 @@
-﻿using GeometryLib;
-using GeometryLib.Utils;
+﻿using GeometryLib.Utils;
 
 // ReSharper disable once CheckNamespace
 namespace GeometryLib;

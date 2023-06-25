@@ -6,5 +6,14 @@
     <Nullable>enable</Nullable>
     <RootNamespace>GeometryLib</RootNamespace>
   </PropertyGroup>
-
+  
+  <PropertyGroup>
+    <PackageId>AdIVIuH.GeometryLib</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>AdIVIuH</Authors>
+    <Owners>AdIVIuH</Owners>
+    <Description>Geometry class library</Description>
+    <Copyright>Copyright ​ AdIVIuH 2023</Copyright>
+  </PropertyGroup>
+  
 </Project>
