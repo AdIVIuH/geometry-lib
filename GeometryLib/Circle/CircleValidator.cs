@@ -1,8 +1,8 @@
 ﻿namespace GeometryLib;
 
-public static class CircleValidator
+internal static class CircleValidator
 {
-    public static void Validate(double radius)
+    internal static void Validate(double radius)
     {
         NegativeRadiusException.ThrowIfNegative(radius);
     }
