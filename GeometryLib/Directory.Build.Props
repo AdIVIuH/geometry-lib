@@ -1,0 +1,5 @@
+<Project>
+    <PropertyGroup>
+        <RootNamespace>GeometryLib</RootNamespace>
+    </PropertyGroup>
+</Project>
